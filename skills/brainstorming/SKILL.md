@@ -1,11 +1,17 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: Use when the user explicitly asks to brainstorm, ideate, explore approaches, or refine a design before implementation
 ---
 
 # Brainstorming Ideas Into Designs
 
 Help turn ideas into fully formed designs and specs through natural collaborative dialogue.
+
+## When to Use
+
+- User clearly asks to brainstorm, ideate, workshop options, or think through a design together
+- User wants to compare approaches before deciding what to build
+- Do not auto-trigger for ordinary implementation requests unless the user is explicitly asking for brainstorming
 
 Start by understanding the current project context, then ask questions one at a time to refine the idea. Once you understand what you're building, present the design and get user approval.
 
